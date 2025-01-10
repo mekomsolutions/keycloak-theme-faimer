@@ -8,7 +8,7 @@ import type { I18n } from "../i18n";
 import "./styles.css";
 import PolicyOverlay from "./components/PolicyOverlay.tsx";
 import HelpPopup from "./components/HelpPopup.tsx";
-import logo from "../../assets/faimer-logo.jpg";
+import logo from "../../resources/img/faimer-logo.jpg";
 
 export default function LoginUpdatePassword(
     props: PageProps<

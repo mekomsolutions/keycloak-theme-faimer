@@ -2,7 +2,7 @@ import type { PageProps } from "keycloakify/login/pages/PageProps";
 import type { KcContext } from "../KcContext";
 import type { I18n } from "../i18n";
 import "./styles.css";
-import logo from "../../assets/faimer-logo.jpg";
+import logo from "../../resources/img/faimer-logo.jpg";
 import HelpPopup from "./components/HelpPopup.tsx";
 import PolicyOverlay from "./components/PolicyOverlay.tsx";
 

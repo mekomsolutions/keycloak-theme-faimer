@@ -7,7 +7,7 @@ import type { KcContext } from "../KcContext";
 import type { I18n } from "../i18n";
 import HelpPopup from "./components/HelpPopup.tsx";
 import PolicyOverlay from "./components/PolicyOverlay.tsx";
-import logo from "../../assets/faimer-logo.jpg";
+import logo from "../../resources/img/faimer-logo.jpg";
 import "./styles.css";
 
 export default function Login(props: PageProps<Extract<KcContext, { pageId: "login.ftl" }>, I18n>) {

@@ -119,10 +119,6 @@
 </head>
 <body>
     <div class="email-container">
-        <div class="header">
-            <img src="https://www.faimer.org/images/logo-faimer.svg" alt="${msg('organizationName')}" />
-        </div>
-
         <div class="content">
             <#nested>
 
